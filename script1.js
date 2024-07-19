@@ -1,2 +1,2 @@
 
-console.log("This is class to of Git Tool");
+console.log("This is class of Git Tool");
